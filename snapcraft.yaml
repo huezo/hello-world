@@ -1,4 +1,4 @@
-name: hello-word/
+name: hello-word
 version: "2.10"
 summary: GNU Hello, the "hello world" snap
 description: GNU hello prints a friendly greeting.
